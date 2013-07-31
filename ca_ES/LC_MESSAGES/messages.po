@@ -1,0 +1,666 @@
+# Translations template for Discogs.
+# Copyright (C) 2012 Discogs
+# This file is distributed under the same license as the Discogs project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+# polecito <polecito@gmail.com>, 2012
+##, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Discogs 0.1\n"
+"Report-Msgid-Bugs-To: language@discogs.com\n"
+"POT-Creation-Date: 2012-03-29 15:33-0700\n"
+"PO-Revision-Date: 2013-07-31 18:37+0100\n"
+"Last-Translator: Pol Ferre Samon <polecito@gmail.com>\n"
+"Language-Team: Catalan <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 0.9.6\n"
+
+msgid "About Us"
+msgstr "Sobre Discogs"
+
+msgid "Add Release"
+msgstr "Afegeix Edició"
+
+msgid "Add stuff to your wantlist and we'll let you know when someone is selling it."
+msgstr "Afegeix elments a la teva llista de desitjos i et farem saber quan algú el posi a la venda."
+
+msgid "Add to Cart"
+msgstr "Afegeix a la Cistella"
+
+msgid "Add to List"
+msgstr "Afegeix a la Llista"
+
+msgid "All Genres"
+msgstr "Tots els Gèneres"
+
+msgid "Alternates"
+msgstr "Alternatives"
+
+msgid "Artists"
+msgstr "Artistes"
+
+msgid "Barcode and Other Identifiers"
+msgstr "Codi de Barres i Altres Identificadors"
+
+msgid "Based on the items in your Shopping Cart from seller"
+msgstr "Basat en els elements de la teva Cistella del venedor"
+
+msgid "Bestselling"
+msgstr "Els més venuts"
+
+msgid "Bestselling MP3/WAV"
+msgstr "Els MP3/WAV més venuts"
+
+msgid "Billing"
+msgstr "Facturació"
+
+msgid "Browse by Genre"
+msgstr "Cercar per Gènere"
+
+msgid "Buy"
+msgstr "Compra"
+
+msgid "Buy Vinyl Records, CDs and More"
+msgstr "Compra Discs de Vinil, CDs i Més"
+
+msgid "CD"
+msgstr "CD"
+
+msgid "Cassette"
+msgstr "Casset"
+
+msgid "Change all formats to"
+msgstr "Canvia tots els formats a"
+
+msgid "Checkout"
+msgstr "Caixa"
+
+msgid "Classical"
+msgstr "Clàssic"
+
+msgid "Collection"
+msgstr "Col·lecció"
+
+msgid "Companies etc"
+msgstr "Les companyies etc"
+
+msgid "Contact"
+msgstr "Contacte"
+
+msgid "Continue Shopping"
+msgstr "Seguir Comprant"
+
+msgid "Contribute"
+msgstr "Contribueix"
+
+msgid "Contributor List"
+msgstr "Llista de Contribuents"
+
+msgid "Copyright"
+msgstr "Dret d'autor"
+
+msgid "Country"
+msgstr "País"
+
+msgid "Credits"
+msgstr "Crèdits"
+
+msgid "Dancehall"
+msgstr "Dancehall"
+
+msgid "Decade"
+msgstr "Década"
+
+msgid "Developers&nbsp;API"
+msgstr "API per a Desenvolupadors"
+
+msgid "Digital"
+msgstr "Digital"
+
+msgid "Disco"
+msgstr "Disco"
+
+msgid "Discography"
+msgstr "Discografia"
+
+msgid "Discogs is the safe and easy way to buy and <a href=\"/marketplace\">sell</a> music."
+msgstr "Discogs és la manera segura i fàcil de comprar i <href=\"marketplace\">vendre</a> música."
+
+msgid "Discogs users are auto-notified when items they want are listed."
+msgstr "Els usuaris de Discogs són notificats automàticament quan elements que volen són llistats."
+
+msgid "Discover"
+msgstr "Descobrir"
+
+msgid "Do less work"
+msgstr "Fer menys feina"
+
+msgid "Drafts"
+msgstr "Borradors"
+
+msgid "Electronic"
+msgstr "Electrònic"
+
+msgid "Empty Cart"
+msgstr "Cistella Buida"
+
+msgid "Explore"
+msgstr "Explora"
+
+msgid "Export Data"
+msgstr "Exportar Dades"
+
+msgid "Filter results by"
+msgstr "Filtrar resultats per"
+
+msgid "Follow&nbsp;Us"
+msgstr "Segueix-nos"
+
+msgid "For sellers that need to list their items in bulk"
+msgstr "Per venedors que necessiten llistar els seus elements massivament"
+
+msgid "For sellers with time to list items one-by-one"
+msgstr "Per venedors amb temps per llistat elements un a un"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Formats"
+msgstr "Formats"
+
+msgid "Forums"
+msgstr "Fòrums"
+
+msgid "Friends"
+msgstr "Amics"
+
+msgid "Funk / Soul"
+msgstr "Funk / Soul"
+
+msgid "Genre"
+msgstr "Gènere"
+
+msgid "Genres"
+msgstr "Gèneres"
+
+msgid "Get Started"
+msgstr "Comença"
+
+msgid "Get Started Selling Now"
+msgstr "Comença a Vendre Ara"
+
+msgid "Getting Started"
+msgstr "Primers Passos"
+
+msgid "Help"
+msgstr "Ajuda"
+
+msgid "Help Forums"
+msgstr "Fòrums d'Ajuda"
+
+msgid "Help on search"
+msgstr "Ajuda en la cerca"
+
+msgid "Help&nbsp;Is&nbsp;Here"
+msgstr "L'Ajuda&nbsp;És&nbsp;Aquí"
+
+msgid "Hip Hop"
+msgstr "Hip Hop"
+
+msgid "House"
+msgstr "House"
+
+msgid "If you would like us to add your testimonial, please contact"
+msgstr "Si desitja que afegim el seu testimoni, si us plau posa't en contacte amb"
+
+msgid "Indie Rock"
+msgstr "Indie Rock"
+
+msgid "Initial listings and all updates are handled with bulk uploads"
+msgstr "Llistats inicials i totes les actualitzacions són manegades amb pujades a massives"
+
+msgid "Initial listings are one-by-one, but can be updated in bulk"
+msgstr "Llistats inicials són un a un, però poden fer-se amb actualitzacions massives"
+
+msgid "Item"
+msgstr "Element"
+
+msgid "Items I Want"
+msgstr "Elements Que Vull"
+
+msgid "Items Ship From"
+msgstr "L'element Ve De"
+
+msgid "Items are displayed in search results based on artist, title and format"
+msgstr "Els elements són mostrats als resultats de la cerca basant-se en artista, títol i format"
+
+msgid "Items are displayed under the exact release you list them"
+msgstr "Els elements són mostrats sota l'edició exacte en que els llistes"
+
+msgid "Jazz"
+msgstr "Jazz"
+
+msgid "Jobs"
+msgstr "Feines"
+
+msgid "Join&nbsp;In"
+msgstr "Uneix-te"
+
+msgid "Jump To"
+msgstr "Anar A"
+
+msgid "Label"
+msgstr "Segell"
+
+msgid "Labels"
+msgstr "Segells"
+
+msgid "Languages"
+msgstr "Idiomes"
+
+msgid "Learn more"
+msgstr "Aprendre'n més"
+
+msgid "Listing Options"
+msgstr "Opcions de Llistat"
+
+msgid "Listing items for sale on Discogs is <strong>always free</strong>."
+msgstr "Llistar elements per a la venda a Discogs és <strong>sempre gratis</strong>."
+
+msgid "Lists"
+msgstr "LListes"
+
+msgid "Logout"
+msgstr "Sortir"
+
+msgid "MP3 &amp; WAV"
+msgstr "MP3 &amp; WAV"
+
+msgid "MP3 &amp; WAV Downloads"
+msgstr "MP3 &amp; Descàrregues WAV"
+
+msgid "MP3/WAV"
+msgstr "MP3/WAV"
+
+msgid "Make more money"
+msgstr "Fes mes diners"
+
+msgid "Manage Inventory"
+msgstr "Gestionar Inventari"
+
+msgid "Marketplace"
+msgstr "Mercat"
+
+msgid "Marketplace Support"
+msgstr "Ajuda al Mercat"
+
+msgid "Mobile"
+msgstr "Mòbil"
+
+msgid "More From"
+msgstr "Més Des De"
+
+msgid "More formats"
+msgstr "Més formats"
+
+msgid "More genres"
+msgstr "Més gèneres"
+
+msgid "More styles"
+msgstr "Més estils"
+
+msgid "More than <strong>4 million people</strong> look for music on Discogs every month."
+msgstr "Més de <strong>4 milions de persones</strong> cerquen música a Discogs cada mes."
+
+msgid "My Groups"
+msgstr "Els Meus Grups"
+
+msgid "My Items For Sale"
+msgstr "Els Meus Elements A la Venda"
+
+msgid "My Orders"
+msgstr "Les Meves Comandes"
+
+msgid "My Purchases"
+msgstr "Les Meves Compres"
+
+msgid "Needs Changes"
+msgstr "Necessita Canvis"
+
+msgid "Needs Vote"
+msgstr "Necessita Votació"
+
+msgid "New Releases"
+msgstr "Nova Edició"
+
+msgid "New Seller"
+msgstr "Nou Venedor"
+
+msgid "New Styles"
+msgstr "Nous Estils"
+
+msgid "New Wave"
+msgstr "New Wave"
+
+msgid "No need to type up detailed item descriptions."
+msgstr "No és necessari escriure descripcions detallades del elements."
+
+msgid "No orders"
+msgstr "No hi ha comandes"
+
+msgid "Notes"
+msgstr "Notes"
+
+msgid "OR"
+msgstr "OR"
+
+msgid "Official Blog"
+msgstr "Blog Oficial"
+
+msgid "Only 6&#37; in fees incur when your items sell"
+msgstr "Només s'aplica una comissió del 6&#37; quan es venen els seus elements"
+
+msgid "Only 8&#37; in fees incur when your items sell"
+msgstr "Només s'aplica una comissió del 8&#37; quan es venen els seus elements"
+
+msgid "Order Number"
+msgstr "Número de Comanda"
+
+msgid "Other&nbsp;Stuff"
+msgstr "Altres Coses"
+
+msgid "Payment Methods"
+msgstr "Mètodes de Pagament"
+
+msgid "Pop"
+msgstr "Pop"
+
+msgid "Popular Formats"
+msgstr "Formats Populars"
+
+msgid "Price"
+msgstr "Preu"
+
+msgid "Privacy Policy"
+msgstr "Política de Privacitat"
+
+msgid "Product Search"
+msgstr "Cerca Productes"
+
+msgid "Profile"
+msgstr "Perfil"
+
+msgid "Punk"
+msgstr "Punk"
+
+msgid "Purchase Date"
+msgstr "Data de Compra"
+
+msgid "Reach more buyers"
+msgstr "Aconsegueix més compradors"
+
+msgid "Read what other Discogs sellers have to say"
+msgstr "Llegeix que en diuen altres venedors de Discogs"
+
+msgid "Recent Group Activity"
+msgstr "Activitat Recent del Group"
+
+msgid "Recent Marketplace Sales"
+msgstr "Vendes Recents del Mercat"
+
+msgid "Recommendations"
+msgstr "Recomanacions"
+
+msgid "Recommendations For You"
+msgstr "Recomanacions Per a Tu"
+
+msgid "Reggae"
+msgstr "Reggae"
+
+msgid "Released"
+msgstr "Publicat"
+
+msgid "Releases"
+msgstr "Edicions"
+
+msgid "Reviews"
+msgstr "Comentaris"
+
+msgid "Rock"
+msgstr "Rock"
+
+msgid "Sales History"
+msgstr "Històric de Vendes"
+
+msgid "Saved Group Topics"
+msgstr "Temes del Grup Guardats"
+
+msgid "Search for variations of"
+msgstr "Cerca variacions de"
+
+msgid "Search results"
+msgstr "Resultats de la cerca"
+
+msgid "Sell"
+msgstr "Ven"
+
+msgid "Selling here gets you instant exposure to our high traffic."
+msgstr "Vendre aquí et proporciona exposició instantània al nostre alt trànsit."
+
+msgid "Selling vinyl records and CDs has never been easier."
+msgstr "Vendre discs de vinil i CDs mai ha sigut tan fàcil."
+
+msgid "Settings"
+msgstr "Configuració"
+
+msgid "Shipping Policies"
+msgstr "Política d'Enviament"
+
+msgid "Shop"
+msgstr "Tenda"
+
+msgid "Shopping Cart"
+msgstr "Cistella de Compra"
+
+msgid "Show"
+msgstr "Mostra"
+
+msgid "Showing"
+msgstr "Mostrant"
+
+msgid "Sign Up"
+msgstr "Registra't"
+
+msgid "Sorry, no downloads could be found."
+msgstr "Disculpi, no s'han pogut trobar descàrregues."
+
+msgid "Sort By"
+msgstr "Ordenat Per"
+
+msgid "Sort by"
+msgstr "Ordenat per"
+
+msgid "Standard Listing"
+msgstr "Llistat estàndard"
+
+msgid "Start Shopping"
+msgstr "Començar a Comprar"
+
+msgid "Start getting recommendations by making a purchase in the marketplace."
+msgstr "Començar a rebre recomanacions fent una compra al mercat."
+
+msgid "Style"
+msgstr "Estil"
+
+msgid "Styles"
+msgstr "Estils"
+
+msgid "Submissions"
+msgstr "Enviaments"
+
+msgid "Subscribe to featured releases newsletter"
+msgstr "Subscriure a la newsletter de edicions destacades"
+
+msgid "Support Request"
+msgstr "Petició d'Ajuda"
+
+msgid "Techno"
+msgstr "Techno"
+
+msgid "Terms of Service"
+msgstr "Termes del Servei"
+
+msgid "The Best Way to Sell Music"
+msgstr "La Millor Manera de Vendre Música"
+
+msgid "The info is already here."
+msgstr "La informació ja és aquí."
+
+msgid "This label does not exist in Discogs."
+msgstr "Aquest segell discogràfic no existeix a Discogs."
+
+msgid "This label has no approved releases"
+msgstr "Aquest segell discogràfic no té edicions aprovades"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Track"
+msgstr "Pista"
+
+msgid "Tracklist"
+msgstr "LListat de Pistes"
+
+msgid "Trance"
+msgstr "Trance"
+
+msgid "Videos"
+msgstr "Vídeos"
+
+msgid "View Cart"
+msgstr "Veure Cistella"
+
+msgid "View all genres"
+msgstr "Veure tots els géneres"
+
+msgid "Vinyl"
+msgstr "Vinil"
+
+msgid "Wantlist"
+msgstr "Llista de desitjos"
+
+msgid "Watch how it's done"
+msgstr "Mira com s'ha fet"
+
+msgid "Year"
+msgstr "Any"
+
+msgid "You only pay a 6 - 8&#37; fee when your items sell."
+msgstr "Només pagues una comissió del 6 - 8&#37; quan vens els teus elements."
+
+msgid "Your cart is empty"
+msgstr "La teva cistella és buida"
+
+msgid "Your search returned no results. Please try a different query."
+msgstr "La cerca no torna resultats. Si us plau provi una consulta."
+
+msgid "available in digital format"
+msgstr "disponible en format digital"
+
+msgid "browse all"
+msgstr "explorar tot"
+
+msgid "edit"
+msgstr "editar"
+
+msgid "for sale"
+msgstr "a la venda"
+
+msgid "from my"
+msgstr "de la meva"
+
+msgid "genres"
+msgstr "gèneres"
+
+msgid "history"
+msgstr "històric"
+
+msgid "in"
+msgstr "a"
+
+msgid "in MP3/WAV"
+msgstr "en MP3/WAV"
+
+msgid "item"
+msgid_plural "items"
+msgstr[0] "element"
+msgstr[1] "elements"
+
+msgid "lists"
+msgstr "llistes"
+
+msgid "more"
+msgstr "més"
+
+msgid "more genres"
+msgstr "més géneres"
+
+msgid "music in the world's biggest and best music marketplace"
+msgstr "música al millor i més gran mercat del món"
+
+msgid "new and old music, connect with other music lovers"
+msgstr "música nova i vella, conecta amb altres amants de la música"
+
+msgid "one per line"
+msgstr "un per línia"
+
+msgid "release"
+msgstr "edició"
+
+msgid "remove"
+msgstr "esborra"
+
+msgid "results"
+msgstr "resultats"
+
+msgid "reviews"
+msgstr "comentaris"
+
+msgid "show more"
+msgstr "mostrar més"
+
+msgid "showing"
+msgstr "mostrant"
+
+msgid "sort"
+msgstr "ordenar"
+
+msgid "submission pending"
+msgid_plural "submissions pending"
+msgstr[0] "enviament pendent"
+msgstr[1] "enviaments pendents"
+
+msgid "to the largest and most accurate music database"
+msgstr "a la més gran i acurada base de dades de música"
+
+msgid "track"
+msgstr "pista"
+
+msgid "tracks"
+msgstr "pistes"
+
+msgid "view all"
+msgstr "veure tot"
+
+msgid "we recommend these releases"
+msgstr "nossaltres recomanem aquestes edicions"
+
+msgid "website"
+msgstr "pàgina web"
+
+msgid "your collection and wantlist, get notified when items you want are for sale"
+msgstr "la teva col·lecció i llista de desitjos, seràs notificat quan elements que tu vols estan a la venda"
+
